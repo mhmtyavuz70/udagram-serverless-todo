@@ -4,6 +4,6 @@ export const apiEndpoint = `https://${apiId}.execute-api.us-east-1.amazonaws.com
 
 export const authConfig = {
   domain: 'myavuz.auth0.com',
-  clientId: 'Rt5SYSwEAIBkJI0DYkyROKApDKhTi406',
+  clientId: 'XTiqYowk9e0zXhPzpTzJD3kFrZ2MAFfE',
   callbackUrl: 'http://localhost:3000/callback'
 };
